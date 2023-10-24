@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Picture
-![579763333-H (2)](https://user-images.githubusercontent.com/109781546/206831684-5cae327a-62af-490b-b64c-019aefa5bf9b.jpg)
+![Screenshot 2023-10-24 184402](https://github.com/NishantKuthe/NishantKuthe/assets/109781546/ecc20917-516c-435a-af1c-5f44b2152249)
+
 
 <h1 align="center">Hi 👋, I'm Nishant kuthe</h1>
 🌱 I’m currently learning web Devlopment
