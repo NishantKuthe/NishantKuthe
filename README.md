@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 <a href="https://www.Tailwind.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Tailwind/Tailwind-original.svg" alt="java" width="40" height="40"/> </a>  -->
 
 # 💫 About Me:
-currently working on full Stack development <br>current learning new skills and also Affiliate marketing<br>reach me : nishantkuthe2002@gmail.com
+🔭 Currently working on full Stack development <br>
+🌱 Current learning new skills and also Affiliate marketing<br>
+📫 Reach me : nishantkuthe2002@gmail.com
 
 
 ## 🌐 Socials:
